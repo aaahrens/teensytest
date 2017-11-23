@@ -1,0 +1,11 @@
+/Users/drunkengranite/projects/embedded/teensytest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/drunkengranite/projects/embedded/teensytest/cmake-build-debug/CMakeFiles/PLATFORMIO_REBUILD_PROJECT_INDEX.dir
+/Users/drunkengranite/projects/embedded/teensytest/cmake-build-debug/CMakeFiles/PLATFORMIO_UPDATE_ALL.dir
+/Users/drunkengranite/projects/embedded/teensytest/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOADFS.dir
+/Users/drunkengranite/projects/embedded/teensytest/cmake-build-debug/CMakeFiles/PLATFORMIO_BUILD.dir
+/Users/drunkengranite/projects/embedded/teensytest/cmake-build-debug/CMakeFiles/PLATFORMIO_PROGRAM.dir
+/Users/drunkengranite/projects/embedded/teensytest/cmake-build-debug/CMakeFiles/PLATFORMIO_TEST.dir
+/Users/drunkengranite/projects/embedded/teensytest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/drunkengranite/projects/embedded/teensytest/cmake-build-debug/CMakeFiles/teensytest.dir
+/Users/drunkengranite/projects/embedded/teensytest/cmake-build-debug/CMakeFiles/PLATFORMIO_CLEAN.dir
+/Users/drunkengranite/projects/embedded/teensytest/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOAD.dir
